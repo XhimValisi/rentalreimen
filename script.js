@@ -163,6 +163,6 @@ if (emailLink) {
 
 btnReserveNow.addEventListener('click',function(e){
     e.preventDefault();
-    window.open('https://wa.me/+355682055355', '_blank');
+    window.open('https://wa.me/+355682055335', '_blank');
 
 })
